@@ -73,7 +73,7 @@ var shoppingCart = (function() {
       saveCart();
     }
   
-    
+    k
     obj.clearCart = function() {
       cart = [];
       saveCart();
